@@ -44,8 +44,8 @@ pip install -r requirements.txt
 # Run migrations and start server
 python manage.py migrate
 python manage.py runserver
+```
 
-Markdown
 <br>
 
 ---
