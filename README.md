@@ -19,7 +19,7 @@ The recommendation system is built on **Content-Based Filtering** principles:
 **Note:** Due to GitHub's file size limitations (>100MB), the serialized `.pkl` files are not stored in this repository.
 
 **To run this project locally:**
-1. Download the model files from: [INSERT YOUR GOOGLE DRIVE LINK HERE]
+1. Download the model files from: [https://drive.google.com/drive/folders/1jXV0AupM2SaqLBBnyJ0THAaqGtqLAu1k?usp=sharing]
 2. Place these files inside the `/core` folder:
    - `vectorizer (1).pkl`
    - `tfidf_matrix (1).pkl`
