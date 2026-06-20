@@ -44,3 +44,18 @@ pip install -r requirements.txt
 # Run migrations and start server
 python manage.py migrate
 python manage.py runserver
+---
+
+## 👥 Contributors
+
+We would like to thank the following individuals for their contributions to this project:
+
+* **[Laiba Tauseef]** - [@github_username](https://github.com/github_username)
+* **[Syeda Maleeha Bano Naqvi]** - [@github_username](https://github.com/github_username)
+
+*Feel free to open an issue or submit a pull request if you would like to contribute!*
+
+---
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
