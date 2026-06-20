@@ -57,8 +57,6 @@ We would like to thank the following individuals for their contributions to this
 
 *Feel free to open an issue or submit a pull request if you would like to contribute!*
 
-<br>
-
 ---
 
 ## 📜 License
