@@ -52,8 +52,8 @@ python manage.py runserver
 
 We would like to thank the following individuals for their contributions to this project:
 
-* **Laiba Tauseef** - [Insert GitHub Link]
-* **Syeda Maleeha Bano Naqvi** - [Insert GitHub Link]
+* **Laiba Tauseef** - https://github.com/laiba0401
+* **Syeda Maleeha Bano Naqvi** - https://github.com/maleeha1d2003
 
 *Feel free to open an issue or submit a pull request if you would like to contribute!*
 
